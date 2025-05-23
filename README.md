@@ -5,7 +5,8 @@
 -  チーズアカデミーのLPサイトです
 
 ## ③アプリのデプロイURL
--
+-https://github.com/Roggy-1018/kadai00_cheese.git
+-https://cheese-academy-tokyo-83.created.app
 
 ## ④アプリのログイン用IDまたはPassword（ある場合）
 - ID: 今回なし
